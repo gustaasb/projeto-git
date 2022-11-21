@@ -1,0 +1,1 @@
+Oi genteeee! Eu sou o Readme do meu primeiro Git ;]
